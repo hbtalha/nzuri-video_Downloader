@@ -7,7 +7,7 @@
     "release_notes_pt": [
         {
             "2021.xx.xx": [
-            	"Algumas melhorias",
+            	"Algumas melhorias a mais",
                 "Download de canais completos do YouTube",
                 "Adicionado um sistema de avaliação (Ajuda > Avaliar)",
                 "Erro 'Ficheiro não encontrado' ao tentar abrir um ficheiro baixado corrigido",

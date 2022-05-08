@@ -6,8 +6,8 @@
     "url_linux": "https://github.com/hbtalha/nzuri-video_Downloader/releases/download/Updates/nzurivideoDownloader-2022.02.20-linux-x64.run",
     "release_notes_pt": [
         {
-            "2021.xx.xx": [
-            	"Algumas melhorias a mais",
+            "2021.05.08": [
+            	"Algumas melhorias",
                 "Download de canais completos do YouTube",
                 "Adicionado um sistema de avaliação (Ajuda > Avaliar)",
                 "Erro 'Ficheiro não encontrado' ao tentar abrir um ficheiro baixado corrigido",
@@ -19,7 +19,7 @@
     ],
     "release_notes_en": [
         {
-            "2022.xx.xx": [
+            "2022.05.08": [
             	"Minor improvements",
                 "Download full channels from YouTube",
                 "Added a rating system (Help > Rate)",

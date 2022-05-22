@@ -14,6 +14,11 @@
                 "Erro ao tentar mostrar na pasta um ficheiro baixado corrigido",
                 "Erro de análise do link do playlist do youtube corrigigo",
                 "Adicionado um sistema de avaliação"
+            ],
+
+            "2022.xx.xx": [
+            	"Algumas melhorias",
+                "Erro ao abrir certos links de url corrigido"
             ]
         }
     ],
@@ -27,6 +32,11 @@
                 "Error when showing a downloaded file in folder fixed",
                 "Fixed youtube playlist link analisis error",
                 "Added a rating system"
+            ],
+
+            "2022.xx.xx": [
+            	"Minor improvements",
+                "Error openning certain url links fixed"
             ]
         }
     ]

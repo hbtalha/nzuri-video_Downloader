@@ -18,7 +18,7 @@
 
             "2022.xx.xx": [
             	"Algumas melhorias",
-                "Erro ao abrir certos links de url corrigido"
+                "Erro ao abrir certos links de url corrigido",
                 "Eliminar ficheiros criados depois de remover um download da lista"
             ]
         }
@@ -37,7 +37,7 @@
 
             "2022.xx.xx": [
             	"Minor improvements",
-                "Error openning certain url links fixed"
+                "Error openning certain url links fixed",
                 "Delete created files after removing a download from the download table"
             ]
         }

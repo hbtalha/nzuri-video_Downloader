@@ -19,7 +19,8 @@
             "2022.xx.xx": [
             	"Algumas melhorias",
                 "Erro ao abrir certos links de url corrigido",
-                "Eliminar ficheiros criados depois de remover um download da lista"
+                "Eliminar ficheiros criados depois de remover um download da lista",
+                "Funcionalidade de adicionar marcadores de capítulo ao arquivo de vídeo implementada"
             ]
         }
     ],
@@ -38,7 +39,8 @@
             "2022.xx.xx": [
             	"Minor improvements",
                 "Error openning certain url links fixed",
-                "Delete created files after removing a download from the download table"
+                "Delete created files after removing a download from the download table",
+                "Add chapter markers to the video file feature implemented"
             ]
         }
     ]

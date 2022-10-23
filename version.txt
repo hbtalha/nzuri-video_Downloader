@@ -20,7 +20,8 @@
             	"Algumas melhorias",
                 "Erro ao abrir certos links de url corrigido",
                 "Eliminar ficheiros criados depois de remover um download da lista",
-                "Funcionalidade de adicionar marcadores de capítulo ao arquivo de vídeo implementada"
+                "Funcionalidade de adicionar marcadores de capítulo ao arquivo de vídeo implementada",
+                "Alterar todos os títulos dos vídeos da playlist de uma vez e individualmente"
             ]
         }
     ],
@@ -40,7 +41,8 @@
             	"Minor improvements",
                 "Error openning certain url links fixed",
                 "Delete created files after removing a download from the download table",
-                "Add chapter markers to the video file feature implemented"
+                "Add chapter markers to the video file feature implemented",
+                "Change playlist video titles in bulk and individually"
             ]
         }
     ]

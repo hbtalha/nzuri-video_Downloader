@@ -19,7 +19,7 @@
             "2022.xx.xx": [
             	"Algumas melhorias",
                 "Erro ao abrir certos links de url corrigido",
-                "Eliminar ficheiros criados depois de remover um download da lista",
+                "Eliminar ficheiros criados depois de remover um download não terminado da lista",
                 "Funcionalidade de adicionar marcadores de capítulo ao arquivo de vídeo implementada",
                 "Alterar todos os títulos dos vídeos da playlist de uma vez e individualmente"
             ]
@@ -40,7 +40,7 @@
             "2022.xx.xx": [
             	"Minor improvements",
                 "Error openning certain url links fixed",
-                "Delete created files after removing a download from the download table",
+                "Delete created files after removing an unfinished download from the download table",
                 "Add chapter markers to the video file feature implemented",
                 "Change playlist video titles in bulk and individually"
             ]

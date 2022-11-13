@@ -20,7 +20,7 @@
             	"Algumas melhorias",
                 "Erro ao abrir certos links de url corrigido",
                 "Eliminar ficheiros criados depois de remover um download não terminado da lista",
-                "Funcionalidade de adicionar marcadores de capítulo ao arquivo de vídeo implementada",
+                "Funcionalidade de adicionar marcadores de capítulo ao ficheiro de vídeo implementada",
                 "Alterar todos os títulos dos vídeos da playlist de uma vez e individualmente",
                 "Definir intervalo em segundos entre downloads para evitar a limitação da velocidade de downloads"
             ]

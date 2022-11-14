@@ -1,8 +1,8 @@
 {
-    "version_windows": "2022.05.08",
-    "url_windows": "https://github.com/hbtalha/nzuri-video_Downloader/releases/download/Updates/nzuri-video-Downloader-2022.05.08-updateSetup_x64.exe",
+    "version_windows": "2022.11.13",
+    "url_windows": "https://github.com/hbtalha/nzuri-video_Downloader/releases/download/Updates/nzuri-video-Downloader-2022.11.13-updateSetup_x64.exe",
     
-    "version_linux": "2022.05.08",
+    "version_linux": "2022.11.13",
     "url_linux": "https://github.com/hbtalha/nzuri-video_Downloader/releases/download/Updates/nzurivideoDownloader-2022.02.20-linux-x64.run",
     "release_notes_pt": [
         {
@@ -16,7 +16,7 @@
                 "Adicionado um sistema de avaliação"
             ],
 
-            "2022.xx.xx": [
+            "2022.11.13": [
             	"Algumas melhorias",
                 "Erro ao abrir certos links de url corrigido",
                 "Eliminar ficheiros criados depois de remover um download não terminado da lista",
@@ -38,7 +38,7 @@
                 "Added a rating system"
             ],
 
-            "2022.xx.xx": [
+            "2022.11.13": [
             	"Minor improvements",
                 "Error openning certain url links fixed",
                 "Delete created files after removing an unfinished download from the download table",

@@ -23,6 +23,11 @@
                 "Funcionalidade de adicionar marcadores de capítulo ao ficheiro de vídeo implementada",
                 "Alterar todos os títulos dos vídeos da playlist de uma vez e individualmente",
                 "Definir intervalo em segundos entre downloads para evitar a limitação da velocidade de downloads"
+            ],
+            
+            "2023.xx.xx": [
+            	"Algumas melhorias",
+                "Erro ao abrir alguns videos baixados com qualidade "Melhor" corrigido"
             ]
         }
     ],
@@ -45,6 +50,11 @@
                 "Add chapter markers to the video file feature implemented",
                 "Change playlist video titles in bulk and individually",
                 "Feature to set break in seconds between downloads to avoid donwload throttling implemented"
+            ],
+            
+            "2023.xx.xx": [
+            	"Minor improvements",
+                "Error openning some videos with "best" quality fixed"
             ]
         }
     ]

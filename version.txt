@@ -27,7 +27,7 @@
             
             "2023.xx.xx": [
             	"Algumas melhorias",
-                "Erro ao abrir alguns videos baixados com qualidade "Melhor" corrigido"
+                "Erro ao abrir alguns videos baixados com qualidade 'Melhor' corrigido"
             ]
         }
     ],
@@ -54,7 +54,7 @@
             
             "2023.xx.xx": [
             	"Minor improvements",
-                "Error openning some videos with "best" quality fixed"
+                "Error openning some videos with 'best' quality fixed"
             ]
         }
     ]

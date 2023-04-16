@@ -28,7 +28,9 @@
             "2023.xx.xx": [
             	"Algumas melhorias",
                 "Erro ao abrir alguns videos baixados com qualidade 'Melhor' corrigido",
-                "Erro ao baixar de urls válidos do YouTube corrigido"
+                "Erro ao baixar de urls válidos do YouTube corrigido",
+                "Baixar playlist de TikTok",
+                "Erro ao adicionar/remover índice ao nome dos ficheiros corrigido"
             ]
         }
     ],
@@ -56,7 +58,9 @@
             "2023.xx.xx": [
             	"Minor improvements",
                 "Error openning some videos with 'best' quality fixed",
-                "Error downloading from valid YouTube urls fixed"
+                "Error downloading from valid YouTube urls fixed",
+                "Download TikTok playlist",
+                "Error adding/removing index number to file names fixed"
             ]
         }
     ]

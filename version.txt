@@ -30,7 +30,8 @@
                 "Erro ao abrir alguns videos baixados com qualidade 'Melhor' corrigido",
                 "Erro ao baixar de urls válidos do YouTube corrigido",
                 "Baixar playlist de TikTok",
-                "Erro ao adicionar/remover índice ao nome dos ficheiros corrigido"
+                "Erro ao adicionar/remover índice ao nome dos ficheiros corrigido",
+                "Erro ao listar videos de canais do YouTube corrigido"
             ]
         }
     ],
@@ -60,7 +61,8 @@
                 "Error openning some videos with 'best' quality fixed",
                 "Error downloading from valid YouTube urls fixed",
                 "Download TikTok playlist",
-                "Error adding/removing index number to file names fixed"
+                "Error adding/removing index number to file names fixed",
+                "Error list YouTube channel videos fixed"
             ]
         }
     ]

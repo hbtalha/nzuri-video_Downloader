@@ -25,7 +25,7 @@
                 "Definir intervalo em segundos entre downloads para evitar a limitação da velocidade de downloads"
             ],
             
-            "2022.xx.xx": [
+            "2021.xx.xx": [
             	"Algumas melhorias",
                 "Erro ao abrir alguns videos baixados com qualidade 'Melhor' corrigido",
                 "Erro ao baixar de urls válidos do YouTube corrigido",
@@ -57,7 +57,7 @@
                 "Feature to set break in seconds between downloads to avoid donwload throttling implemented"
             ],
             
-            "2022.xx.xx": [
+            "2021.xx.xx": [
             	"Minor improvements",
                 "Error openning some videos with 'best' quality fixed",
                 "Error downloading from valid YouTube urls fixed",

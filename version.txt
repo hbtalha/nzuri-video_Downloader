@@ -31,7 +31,8 @@
                 "Erro ao baixar de urls válidos do YouTube corrigido",
                 "Baixar playlist de TikTok",
                 "Erro ao adicionar/remover índice ao nome dos ficheiros corrigido",
-                "Erro ao listar videos de canais do YouTube corrigido"
+                "Erro ao listar videos de canais do YouTube corrigido",
+                "Atualização automática do yt-dlp"
             ]
         }
     ],
@@ -62,7 +63,8 @@
                 "Error downloading from valid YouTube urls fixed",
                 "Download TikTok playlist",
                 "Error adding/removing index number to file names fixed",
-                "Error list YouTube channel videos fixed"
+                "Error list YouTube channel videos fixed",
+                "Automatic yt-dlp update"
             ]
         }
     ]

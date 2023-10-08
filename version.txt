@@ -12,7 +12,7 @@
                 "Adicionado um sistema de avaliação (Ajuda > Avaliar)",
                 "Erro 'Ficheiro não encontrado' ao tentar abrir um ficheiro baixado corrigido",
                 "Erro ao tentar mostrar na pasta um ficheiro baixado corrigido",
-                "Erro de análise do link do playlist do youtube corrigigo",
+                "Erro de análise do link do playlist do youtube corrigido",
                 "Adicionado um sistema de avaliação"
             ],
 
@@ -32,7 +32,8 @@
                 "Baixar playlist de TikTok",
                 "Erro ao adicionar/remover índice ao nome dos ficheiros corrigido",
                 "Erro ao listar videos de canais do YouTube corrigido",
-                "Atualização automática do yt-dlp"
+                "Atualização automática do yt-dlp",
+                "Erro no progresso da atualização do yt-dlp corrigido"
             ]
         }
     ],
@@ -64,7 +65,8 @@
                 "Download TikTok playlist",
                 "Error adding/removing index number to file names fixed",
                 "Error list YouTube channel videos fixed",
-                "Automatic yt-dlp update"
+                "Automatic yt-dlp update",
+                "Fix yt-dlp update progress"
             ]
         }
     ]

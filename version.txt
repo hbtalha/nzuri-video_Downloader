@@ -32,7 +32,7 @@
                 "Baixar playlist de TikTok",
                 "Erro ao adicionar/remover índice ao nome dos ficheiros corrigido",
                 "Erro ao listar videos de canais do YouTube corrigido",
-                "Atualização automática do yt-dlp",
+                "Adicionar opção de configuração para atualizar yt-dlp ao fechar",
                 "Erro no progresso da atualização do yt-dlp corrigido"
             ]
         }
@@ -65,7 +65,7 @@
                 "Download TikTok playlist",
                 "Error adding/removing index number to file names fixed",
                 "Error list YouTube channel videos fixed",
-                "Automatic yt-dlp update",
+                "Add setting option to update yt-dlp when closing",
                 "Fix yt-dlp update progress"
             ]
         }

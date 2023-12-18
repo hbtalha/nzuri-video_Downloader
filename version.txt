@@ -32,7 +32,8 @@
                 "Erro ao adicionar/remover índice ao nome dos ficheiros corrigido",
                 "Erro ao listar videos de canais do YouTube corrigido",
                 "Adicionar opção de configuração para atualizar yt-dlp ao fechar",
-                "Erro no progresso da atualização do yt-dlp corrigido"
+                "Erro no progresso da atualização do yt-dlp corrigido",
+                "Erro ao baixar playlist do Instagram corrigido"
             ]
         }
     ],
@@ -64,7 +65,8 @@
                 "Error adding/removing index number to file names fixed",
                 "Error list YouTube channel videos fixed",
                 "Add setting option to update yt-dlp when closing",
-                "Fix yt-dlp update progress"
+                "Fix yt-dlp update progress",
+                "Fix Instagram playlist download"
             ]
         }
     ]

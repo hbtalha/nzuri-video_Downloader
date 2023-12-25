@@ -1,8 +1,8 @@
 {
-    "version_windows": "2023.12.25",
+    "version_windows": "2022.11.13",
     "url_windows": "https://github.com/hbtalha/nzuri-video_Downloader/releases/download/Updates/nzuri-video-Downloader-2023.12.25-updateSetup_x64.exe",
     
-    "version_linux": "2023.12.25",
+    "version_linux": "2022.11.13",
     "url_linux": "https://github.com/hbtalha/nzuri-video_Downloader/releases/download/Updates/nzurivideoDownloader-2022.02.20-linux-x64.run",
     "release_notes_pt": [
         {
@@ -25,7 +25,7 @@
                 "Definir intervalo em segundos entre downloads para evitar a limitação da velocidade de downloads"
             ],
             
-            "2023.12.25": [
+            "2023.xx.xx": [
             	"Algumas melhorias",
                 "Erro ao abrir alguns videos baixados com qualidade 'Melhor' corrigido",
                 "Erro ao baixar de urls válidos do YouTube corrigido",
@@ -58,7 +58,7 @@
                 "Feature to set break in seconds between downloads to avoid donwload throttling implemented"
             ],
             
-            "2023.12.25": [
+            "2023.xx.xx": [
             	"Minor improvements",
                 "Error openning some videos with 'best' quality fixed",
                 "Error downloading from valid YouTube urls fixed",
